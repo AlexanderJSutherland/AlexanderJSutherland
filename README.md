@@ -11,6 +11,7 @@ data science projects focused on interesting and meaningful questions.
 
 + Predicting preterm birth (https://github.com/kgrillaert/preterm_birth)
 + Analyzing baseball umpire performance (https://github.com/AlexanderJSutherland/pitch-calling)
++ Classifying MLB pitch types (https://www.alexandersutherland.com/data-science)
 
 ### 💻 *Learn more about me and my work*
 
