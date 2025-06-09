@@ -1,6 +1,6 @@
 ## Welcome!  
 
-My name is Alex Sutherland and I'm a mathematician at *The* Ohio State Univeristy.  
+My name is Alex Sutherland and I'm a data scientist, researcher, and mathematician.  
 Pronouns: He/Him/His
 
 ### 🔭 *I’m currently working on*
