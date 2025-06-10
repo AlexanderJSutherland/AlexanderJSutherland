@@ -3,7 +3,7 @@
 My name is Alex Sutherland and I'm a data scientist, researcher, and mathematician.  
 Pronouns: He/Him/His
 
-### 🔭 *I’m currently working on*
+### 🔭 *I’m currently working on...*
 
 data science projects focused on interesting and meaningful questions.
 
