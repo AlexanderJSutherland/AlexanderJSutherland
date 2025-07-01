@@ -1,6 +1,6 @@
 ## Welcome!  
 
-My name is Alex Sutherland and I'm a data scientist, researcher, and mathematician.  
+My name is Alexander Sutherland and I'm a data scientist, researcher, and mathematician.  
 Pronouns: He/Him/His
 
 ### 🔭 *I’m currently working on ...*
